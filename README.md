@@ -177,6 +177,8 @@ Then add to your Claude Desktop configuration (`~/.config/Claude/claude_desktop_
 
 For other MCP-compatible clients, use the hosted endpoint `https://mcp.kite.trade/mcp` with [mcp-remote](https://github.com/modelcontextprotocol/mcp-remote) or configure your client to connect directly to the HTTP endpoint.
 
+### Cursor
+
 ## Available Tools
 
 ### Setup & Authentication
